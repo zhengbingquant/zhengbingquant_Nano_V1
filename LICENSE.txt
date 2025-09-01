@@ -1,0 +1,36 @@
+CERN OPEN HARDWARE LICENSE VERSION 2 - STRONGLY RECIPROCAL
+
+Copyright (c) 2025 zhengbingquant
+
+This is the Open Hardware License (OHL) Version 2 – Strongly Reciprocal.
+
+This License applies to the hardware design known as "zhengbingquant_Nano_V1".
+
+1. DEFINITIONS
+   “Documentation” means all the information needed to produce, reproduce, modify, and distribute the hardware, including schematics, PCB layouts, bill of materials (BOM), and related documents.
+
+2. LICENSE GRANT
+   You are free to:
+   a) Make copies of the Documentation;
+   b) Modify the Documentation;
+   c) Distribute the Documentation or Modified Documentation;
+   d) Make and distribute Products based on the Documentation.
+
+3. CONDITIONS
+   a) You must include a copy of this License with any distribution of the Documentation or Products.
+   b) You must clearly state any modifications made to the original Documentation.
+   c) You must credit the original author(s) as follows:
+      “Original design by zhengbingquant – zhengbingquant_Nano_V1”
+
+4. DISCLAIMER OF WARRANTY
+   The Documentation is provided “as is”. The licensor makes no representations or warranties of any kind concerning the Documentation.
+
+5. TERMINATION
+   Any violation of this License will automatically terminate your rights under this License.
+
+6. GENERAL
+   This License shall be governed by the laws of the jurisdiction of the original author.
+
+---
+
+Full License Text: https://ohwr.org/cernohlv2
