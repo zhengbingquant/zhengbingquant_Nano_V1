@@ -1,5 +1,8 @@
 # zhengbingquant_Nano_V1
 
+YouTube link: https://youtu.be/o9jtSHh7a54?si=MYGmc70yYvMOVar3
+哔哩哔哩链接: https://www.bilibili.com/video/BV1T5aczyE8L/?vd_source=7e806c69a8d91200bb913d5da4bf505b
+
 **DIY ATmega328P Development Board (Arduino Nano Compatible) with USB-C**
 
 ![Nano Board](3.%20Docs/photos/nano.PNG)
